@@ -1,1 +1,1 @@
-This is lab1
+Welcome to LAB 1
